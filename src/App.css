@@ -1,0 +1,45 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.create {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  align-content: end;
+}
+
+.btn-outline-danger {
+  margin-left: 5px;
+}
+
+.btn-outline-primary {
+  margin-right: 5px;
+}
+
+.card-img-top {
+  width: 18rem;
+  height: 12rem;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.heading {
+  padding: 20px 0px;
+  text-align: center;
+}
+
+.submit {
+  text-align: center;
+}
